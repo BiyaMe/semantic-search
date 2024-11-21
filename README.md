@@ -2,6 +2,8 @@
 
 This project implements a semantic search engine using NLP techniques. It allows users to search for the most relevant documents from a dataset based on their query.
 
+There is a Document(PDF file) that delves deeply into what Semantic search is, what types of searches there are, what we can do to better our search results...etc.
+
 ## Setup Instructions
 
 ### 1. Install the Required Libraries
